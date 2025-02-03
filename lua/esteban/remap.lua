@@ -41,7 +41,6 @@ vim.keymap.set("x", "<leader>p", "\"_dP")
 -- Remaps to use the system clipboard
 vim.keymap.set("n", "<leader>y", "\"+y")
 vim.keymap.set("v", "<leader>y", "\"+y")
-vim.keymap.set("n", "<leader>y", "\"+Y")
 
 vim.keymap.set("v", "<leader><C-c>", "\"esc")
 
